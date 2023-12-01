@@ -17,4 +17,5 @@ This system allows users to register for events and generate a consolidated repo
      - If the user chooses to generate the consolidated report, call the `printReport` function.
      - If the user chooses to exit, break the loop.
    - Free the allocated memory for the events array and the day-wise revenue array.
+## Flowchart
 ![Flowchart](Flowchart.png)
